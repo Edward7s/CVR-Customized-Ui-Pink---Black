@@ -1,0 +1,29 @@
+:root {
+    --wrapper-background: transparent;
+    --element-background: #000000d0;
+    --element-hover: #000000;
+    --color-confirm: #ff6e86a6;
+    --color-deny: #69001ab0;
+    --color-secondary: #000000b6;
+    --color-btn: #323232;
+    --color-btn-warn: #C58F05;
+    --color-btn-secondary: #6B6B6B;
+    --color-btn-primary: #1664BE;
+    --color-btn-border: #FFFFFF;
+    --color-btn-text: #FFFFFF;
+
+    --standard-text-color: #ff1d56;
+    --standard-font-family: Droid Sans;
+    --font-size-nrm: 24px;
+    --font-size-big: 36px;
+    --font-size-bigger: 48px;
+    --font-size-biggest: 58px;
+    --font-color-dark: #ff2e5c;
+    --container-border-radius: 40px;
+    --button-border-radius: 10px;
+    --home-background: #333333;
+    --panel-border-color: #1664BE;
+    --panel-sub-border-color: rgba(255, 255, 255, 0.25);
+    --panel-font-color: #e4e4e4;
+    --panel-sub-font-color: #DCDCDC99;
+}

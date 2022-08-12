@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "Volkhov";
+    src: url("../fonts/Volkhov-Bold.ttf");
+}
+
+* {
+    font-family: "Volkhov";
+    color: darkgray;
+    font-size: 40px;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(../images/tex_StoneWall.png);
+    width: 100%;
+    height: 100%;
+}
+
+#back-to-home {
+    background-image: url(coui://preloaded/arrowgoback);
+    background-size: contain;
+    overflow: visible;
+    position: absolute;
+    top: 0.5vh;
+    left: 0.5vw;
+    width: 50px;
+    height: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content-center {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+}
+
+.description {
+    width: 60%;
+    padding: 0 10px;
+}
+
+.live-view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.live-view-frame {
+    background-image: url(../images/frame_9slice.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.live-view img {
+    width: 512px;
+    height: 512px;
+}
+
+.live-view-button-rotate {
+    background-image: url(../images/btn_Settings_normal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 237px;
+    height: 83px;
+    text-align: center;
+    font-size: 35px;
+    line-height: 2em;
+    z-index: 12;
+    margin-top: 10px;
+}
