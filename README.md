@@ -3,7 +3,7 @@
 ## Changed the colors and made the buttons a bit diffirent.
 
 ### How to use it:
-#### => Download The Project and Replace all the files from "ChilloutVR\ChilloutVR_Data\StreamingAssets\Cohtml".
+#### => Download The Project and Replace The UIResources from  "ChilloutVR\ChilloutVR_Data\StreamingAssets\Cohtml" with the one from this repositorie.
 
 ## Preview
 ![unknown](https://user-images.githubusercontent.com/74219635/184420498-73fdf68d-a42d-4d97-b552-3ffa83acf569.png)
